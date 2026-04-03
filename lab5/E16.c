@@ -1,3 +1,7 @@
+// Lab 5 - Exercise 16: Voting Eligibility Check
+// Program to check if a person is eligible to vote (age >= 18)
+// Returns eligibility status based on user-provided age
+
 #include<stdio.h>
 
 int main(){

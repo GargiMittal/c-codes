@@ -1,3 +1,7 @@
+// Lab 12 - Exercise 66: String Length (Manual Implementation)
+// Program to calculate string length without using strlen()
+// Counts characters until null terminator
+
 #include<stdio.h>
 void main()
 { //strlen alternative

@@ -1,3 +1,7 @@
+// Lab 11 - Exercise 59: Convert String to Uppercase (Using Library Function)
+// Program to convert string to uppercase using toupper() library function
+// More efficient than manual character manipulation
+
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>

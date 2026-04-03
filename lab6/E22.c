@@ -1,3 +1,7 @@
+// Lab 6 - Exercise 22: Grade Assignment Based on Marks
+// Program to assign letter grades based on marks (10-9=A, 8-7=B, 6-4=C, 3-1=F)
+// Uses switch-case with multiple case statements per grade
+
 #include<stdio.h>
 
 int main(){

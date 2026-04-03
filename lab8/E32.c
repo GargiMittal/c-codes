@@ -1,3 +1,7 @@
+// Lab 8 - Exercise 32: Armstrong Number Check
+// Program to check if a number is Armstrong (narcissistic) number
+// Armstrong number: sum of cubes of digits equals the original number
+
 #include<stdio.h>
 #include<math.h>
 int main(){

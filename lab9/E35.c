@@ -1,3 +1,7 @@
+// Lab 9 - Exercise 35: Array Input and Display
+// Program to input array elements and display them
+// Uses array to store and print user-provided numbers
+
 #include<stdio.h>
 
 int main(){

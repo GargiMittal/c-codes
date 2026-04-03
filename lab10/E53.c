@@ -1,3 +1,7 @@
+// Lab 10 - Exercise 53: Magic Square Check
+// Program to check if a square matrix is a magic square
+// Magic square: all rows, columns, and diagonals have equal sum
+
 #include<stdio.h>
 
 int main()

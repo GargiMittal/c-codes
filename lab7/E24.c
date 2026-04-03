@@ -1,3 +1,7 @@
+// Lab 7 - Exercise 24: Factorial Calculation
+// Program to calculate factorial of a number using loop
+// Multiplies all integers from 1 to n
+
 #include<stdio.h>
 
 int main(){

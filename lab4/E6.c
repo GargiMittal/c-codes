@@ -1,3 +1,7 @@
+// Lab 4 - Exercise 6: Triangle Area Using Heron's Formula
+// Program to calculate triangle area given three sides using Heron's formula
+// Formula: Area = sqrt(s*(s-a)*(s-b)*(s-c)) where s = (a+b+c)/2
+
 #include<stdio.h>
 #include<math.h>
 int main(){

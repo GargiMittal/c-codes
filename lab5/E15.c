@@ -1,3 +1,7 @@
+// Lab 5 - Exercise 15: Positive, Negative, or Zero Check
+// Program to check if number is positive, negative, or zero
+// Simple comparison using if-else-if-else structure
+
 #include <stdio.h>
 // program to check whether a number is positive or negative
 int main()

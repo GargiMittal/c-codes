@@ -1,3 +1,7 @@
+// Lab 10 - Exercise 48: Matrix Transpose
+// Program to transpose a matrix (rotate rows and columns)
+// Swaps element at (i,j) with element at (j,i)
+
 #include<stdio.h>
 void main()
 {

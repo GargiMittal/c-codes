@@ -1,3 +1,7 @@
+// Lab 5 - Exercise 14: Character Type Classification
+// Program to determine if input character is uppercase, lowercase, or digit
+// Uses ASCII values for classification (65-90: uppercase, 97-122: lowercase, 48-57: digits)
+
 #include<stdio.h>
 
 int main(){

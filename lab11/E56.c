@@ -1,3 +1,7 @@
+// Lab 11 - Exercise 56: Convert String to Uppercase
+// Program to convert a string to uppercase using character manipulation
+// Subtracts 32 from lowercase ASCII values to convert to uppercase
+
 #include<stdio.h>
 #include<string.h>
 int main(){

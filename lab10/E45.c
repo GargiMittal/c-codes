@@ -1,3 +1,7 @@
+// Lab 10 - Exercise 45: Matrix Input and Display
+// Program to input elements of a matrix and display it
+// Uses nested loops to handle two-dimensional array operations
+
 #include<stdio.h>
 void main()
 {

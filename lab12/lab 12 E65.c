@@ -1,3 +1,7 @@
+// Lab 12 - Exercise 65 (Alt): String Comparison
+// Program to compare two strings and display the lexicographically smaller one
+// Uses character-by-character comparison (ASCII values)
+
 #include<stdio.h>
 void main()
 {

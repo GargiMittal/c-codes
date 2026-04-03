@@ -1,3 +1,7 @@
+// Lab 10 - Exercise 47: Matrix Input and Print
+// Program to input and display a matrix
+// Demonstrates basic 2D array input/output operations
+
 #include<stdio.h>
 void main()
 {

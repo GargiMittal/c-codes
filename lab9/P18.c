@@ -1,3 +1,7 @@
+// Lab 9 - Program 18: Sum and Average of 10 Numbers
+// Program to calculate sum and average of 10 user-provided numbers
+// Stores numbers in array and computes statistics
+
 #include<stdio.h>
 
 int main(){

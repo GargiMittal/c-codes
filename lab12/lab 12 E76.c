@@ -1,3 +1,7 @@
+// Lab 12 - Exercise 76: Count Uppercase and Lowercase Letters
+// Program to count number of uppercase and lowercase letters in string
+// Separates character classification by ASCII range
+
 #include<stdio.h>
 void main()
 {

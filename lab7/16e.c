@@ -1,3 +1,7 @@
+// Lab 7 - Exercise 16E: Alphabet Triangle with Spacing
+// Program to print alphabet characters in triangle with extra spacing
+// Row i has (5-i) indentation and i alphabet characters
+
 #include<stdio.h>
 
 int main(){

@@ -1,3 +1,7 @@
+// Practice: Simple Calculator with Multiple Operations
+// Program to perform basic arithmetic operations (add, subtract, multiply, divide)
+// User selects operation via menu
+
 #include<stdio.h>
 
 int main(){

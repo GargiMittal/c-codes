@@ -1,3 +1,7 @@
+// Lab 5 - Exercise 13: Check Divisibility by 3 or 5
+// Program to check if a number is divisible by 3 or 5
+// Uses logical OR operator for condition checking
+
 #include<stdio.h>
 
 int main(){

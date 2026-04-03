@@ -1,3 +1,7 @@
+// Lab 8 - Exercise 30: Power Series Sum
+// Program to calculate sum of series x^1/1 + x^2/2 + x^3/3 + ...+x^n/n
+// Takes custom base and power values as input
+
 #include<stdio.h>
 #include<math.h>
 int main(){

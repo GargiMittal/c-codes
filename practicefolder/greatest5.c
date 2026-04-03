@@ -1,3 +1,7 @@
+// Practice: Find Largest Among 5 Numbers
+// Program to find the maximum value among 5 user-provided numbers
+// Uses comparison in a loop
+
 #include<stdio.h>
 
 int main(){

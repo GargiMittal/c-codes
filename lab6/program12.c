@@ -1,3 +1,7 @@
+// Lab 6 - Program 12: Sum of N Integers
+// Program to input n integers and calculate their sum
+// Uses for loop to repeatedly read numbers and accumulate sum
+
 #include<stdio.h>
 
 int main(){

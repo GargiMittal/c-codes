@@ -1,3 +1,7 @@
+// Lab 11 - Program 20: Palindrome String Check
+// Program to check if a string is palindrome (reads same forward and backward)
+// Compares characters from start and end moving towards middle
+
 #include<stdio.h>
 #include<string.h>
 int main(){

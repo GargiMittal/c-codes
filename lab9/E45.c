@@ -1,3 +1,7 @@
+// Lab 9 - Exercise 45: Delete Element from Array
+// Program to delete an element at specified location from array
+// Shifts remaining elements to fill the gap
+
 #include<stdio.h>
 
 int main(){

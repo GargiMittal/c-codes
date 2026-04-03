@@ -1,3 +1,7 @@
+// Lab 4 - Exercise 8: Compound Interest Calculation
+// Program to calculate compound interest
+// Formula: CI = P * (1 + R/100)^T - P
+
 //Program to calculate compound interest
 #include<stdio.h>
 #include<math.h>

@@ -1,3 +1,7 @@
+// Lab 12 - Exercise 75: Check if String is Uppercase
+// Program to verify if a string contains only uppercase letters
+// Checks ASCII values for uppercase range (65-90)
+
 #include<stdio.h>
 void main()
 {

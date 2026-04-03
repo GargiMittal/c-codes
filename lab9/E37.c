@@ -1,3 +1,7 @@
+// Lab 9 - Exercise 37: Count Even, Odd, and Prime Numbers
+// Program to count even, odd, and prime numbers in an array
+// Analyzes array elements for different number classifications
+
 #include<stdio.h>
 
 int main(){

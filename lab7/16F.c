@@ -1,3 +1,7 @@
+// Lab 7 - Exercise 16F: Alphabet Triangle with Decreasing Pattern
+// Program to print alphabet characters in modifying triangle pattern
+// Continues incrementing alphabet characters across multiple rows
+
 #include<stdio.h>
 
 int main(){

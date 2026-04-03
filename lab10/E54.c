@@ -1,3 +1,7 @@
+// Lab 10 - Exercise 54: 3x3 Matrix Multiplication
+// Program to multiply two 3x3 matrices
+// Uses triple nested loop for matrix multiplication formula
+
 #include<stdio.h>
 
 int main() {

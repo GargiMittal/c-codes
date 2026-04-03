@@ -1,3 +1,7 @@
+// Lab 10 - Exercise 52: Sum of All Matrix Elements
+// Program to calculate sum of all elements in a square matrix
+// Accumulates all elements regardless of position
+
 #include<stdio.h>
 void main()
 {

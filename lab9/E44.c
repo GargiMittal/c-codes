@@ -1,3 +1,7 @@
+// Lab 9 - Exercise 44: Insert Element in Array
+// Program to insert an element at specified location in array
+// Shifts elements after insertion point to make space
+
 #include<stdio.h>
 
 int main(){

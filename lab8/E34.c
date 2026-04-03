@@ -1,3 +1,7 @@
+// Lab 8 - Exercise 34: Case Converter (Do-While Loop)
+// Program to convert character case repeatedly until '$' is entered
+// Allows converting uppercase to lowercase and vice versa
+
 #include<stdio.h>
 
 int main(){

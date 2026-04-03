@@ -1,3 +1,7 @@
+// Lab 11 - Exercise 63: String Length
+// Program to find length of a string using strlen() function
+// Counts number of characters until null terminator
+
 #include<stdio.h>
 #include<string.h>
 

@@ -1,3 +1,7 @@
+// Lab 7 - Exercise 16G: Diamond Pattern
+// Program to print a diamond shape using hash symbols
+// Upper half: increasing rows, lower half: decreasing rows
+
 #include<stdio.h>
 
 int main(){

@@ -1,4 +1,8 @@
-//program to calculate simple interest
+// Lab 4 - Exercise 7: Simple Interest Calculation
+// Program to calculate simple interest with fixed rate of 8%
+// Formula: SI = (Principal * Rate * Time) / 100
+
+//Program to calculate simple interest
 #include<stdio.h>
 #define r ((int)8)
 int main(){

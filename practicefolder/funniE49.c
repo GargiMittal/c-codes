@@ -1,3 +1,7 @@
+// Practice: Lower Triangular Matrix
+// Program to input and display a lower triangular matrix
+// Matrix where elements below diagonal are present
+
 #include<stdio.h>
 void main()
 {

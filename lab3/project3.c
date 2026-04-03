@@ -1,3 +1,7 @@
+// Lab 3 - Project 3: Count Vowels and Consonants in String
+// Program to count the number of vowels and consonants in a user-entered string
+// Uses character comparison in a while loop
+
 #include<stdio.h>
 #include<string.h>
 void main(){

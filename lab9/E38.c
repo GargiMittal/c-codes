@@ -1,3 +1,7 @@
+// Lab 9 - Exercise 38: Find Largest and Smallest in Array
+// Program to find maximum and minimum values in an array
+// Iterates through array to identify largest and smallest elements
+
 #include<stdio.h>
 
 int main(){

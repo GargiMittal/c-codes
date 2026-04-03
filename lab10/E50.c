@@ -1,3 +1,7 @@
+// Lab 10 - Exercise 50: Sum of Upper Triangle Matrix
+// Program to calculate sum of elements in upper triangle of square matrix
+// Upper triangle: elements where row index <= column index
+
 #include<stdio.h>
 void main()
 {

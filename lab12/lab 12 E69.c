@@ -1,3 +1,7 @@
+// Lab 12 - Exercise 69: Count Vowels, Words, and Digits
+// Program to count vowels, words (space-separated), and digits in a string
+// Comprehensive string analysis program
+
 #include<stdio.h>
 void main()
 {

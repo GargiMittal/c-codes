@@ -1,3 +1,7 @@
+// Practice: Subtraction of Two Numbers
+// Program to subtract two numbers and display the result
+// Simple arithmetic operation
+
 //program to subtract to numbers
 #include<stdio.h>
 

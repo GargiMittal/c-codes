@@ -1,3 +1,7 @@
+// Lab 3 - Project 1: Conditional Logic with Functions
+// Program to demonstrate if-else statements with function calls
+// Takes user input and calls appropriate function based on condition
+
 #include<stdio.h>
 
 // declaration

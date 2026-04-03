@@ -1,7 +1,11 @@
+// Lab 3 - Project 2: Factorial Calculation Using Functions
+// Program to calculate factorial of a number using recursive functions
+// Takes user input and returns factorial using function definition
+
 #include<stdio.h>
 
 // declaration
-int fact(int a);\
+int fact(int a);
 
 //function call
 int main()

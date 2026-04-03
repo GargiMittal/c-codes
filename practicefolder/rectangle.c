@@ -1,3 +1,7 @@
+// Practice: Rectangle Area Calculator
+// Program to calculate area of rectangle given breadth and height
+// Area = breadth × height
+
 #include<stdio.h>
 
 int main()

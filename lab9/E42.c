@@ -1,3 +1,7 @@
+// Lab 9 - Exercise 42: Copy Array
+// Program to copy elements from one array to another
+// Creates a duplicate copy of the array
+
 #include<stdio.h>
 
 int main(){

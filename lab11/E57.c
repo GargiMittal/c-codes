@@ -1,3 +1,7 @@
+// Lab 11 - Exercise 57: Count Vowels in String
+// Program to count the number of vowels in a string
+// Checks each character for vowels (a, e, i, o, u)
+
 #include<stdio.h>
 #include<string.h>
 int main(){

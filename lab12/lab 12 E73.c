@@ -1,3 +1,7 @@
+// Lab 12 - Exercise 73: Copy String
+// Program to copy one string to another manually (without strcpy)
+// Character-by-character copying until null terminator
+
 #include<stdio.h>
 void main()
 {

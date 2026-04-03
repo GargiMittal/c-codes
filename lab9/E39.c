@@ -1,3 +1,7 @@
+// Lab 9 - Exercise 39: Array Reversal
+// Program to reverse the order of elements in an array
+// Swaps elements from start and end moving towards middle
+
 #include<stdio.h>
 
 int main(){

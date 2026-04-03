@@ -1,3 +1,7 @@
+// Lab 10 - Exercise 51: Sum of Diagonal Elements
+// Program to calculate sum of diagonal elements in square matrix
+// Main diagonal: elements where row index equals column index
+
 #include<stdio.h>
 void main()
 {

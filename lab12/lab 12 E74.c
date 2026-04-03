@@ -1,3 +1,7 @@
+// Lab 12 - Exercise 74: Check if String is Lowercase
+// Program to verify if a string contains only lowercase letters
+// Checks ASCII values for lowercase range (97-122)
+
 #include<stdio.h>
 void main()
 {

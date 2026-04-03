@@ -1,3 +1,7 @@
+// Lab 9 - Program 19: Find Largest Number in Array
+// Program to find the maximum value among 10 user-provided numbers
+// Uses array and comparison to identify largest element
+
 #include<stdio.h>
 
 int main(){

@@ -1,3 +1,7 @@
+// Lab 6 - Exercise 23: Find Greatest Among Three Numbers
+// Program to find the maximum of three numbers using ternary operator
+// Uses nested ternary operators for comparison
+
 #include<stdio.h>
 
 int main(){

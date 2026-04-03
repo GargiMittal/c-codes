@@ -1,3 +1,7 @@
+// Lab 9 - Exercise 43: Swap Two Arrays
+// Program to swap elements of two different arrays
+// Exchanges all corresponding elements between arrays
+
 #include<stdio.h>
 //Program to swap two arrays
 int main(){

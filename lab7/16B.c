@@ -1,3 +1,7 @@
+// Lab 7 - Exercise 16B: Center-Aligned Star Triangle Pattern
+// Program to print a center-aligned triangle pattern using asterisks
+// Row i has (5-i) spaces followed by i stars
+
 #include<stdio.h>
 
 int main(){

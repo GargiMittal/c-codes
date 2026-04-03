@@ -1,3 +1,7 @@
+// Lab 11 - Program 21: Character Frequency (Practice)
+// Program to find frequency of a character in string
+// Practice version of Exercise 58
+
 #include<stdio.h>
 #include<string.h>
 int main(){

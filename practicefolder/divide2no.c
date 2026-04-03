@@ -1,3 +1,7 @@
+// Practice: Division of Two Numbers
+// Program to divide two numbers and display the result
+// Simple arithmetic operation
+
 //program to divide 2 numbers
 #include<stdio.h>
 

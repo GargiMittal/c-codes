@@ -1,3 +1,7 @@
+// Lab 8 - Exercise 31: Sum of Digits
+// Program to calculate sum of all digits in a number
+// Extracts individual digits using modulo operation and accumulates
+
 #include<stdio.h>
 
 int main(){

@@ -1,3 +1,7 @@
+// Lab 6 - Exercise 21: Day of Week Converter
+// Program to display day name from day number (1=Sunday to 7=Saturday)
+// Uses switch-case for day conversion
+
 #include<stdio.h>
 
 int main(){

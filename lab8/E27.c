@@ -1,3 +1,7 @@
+// Lab 8 - Exercise 27: Harmonic Series Sum
+// Program to calculate sum of series 1+1/2+1/3+...+1/n
+// Uses loop to accumulate reciprocal of integers
+
 #include<stdio.h>
 
 int main(){

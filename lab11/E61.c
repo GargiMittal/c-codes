@@ -1,3 +1,7 @@
+// Lab 11 - Exercise 61: Copy String
+// Program to copy one string to another using strcpy() function
+// Copies all characters from source to destination string
+
 #include<stdio.h>
 #include<string.h>
 

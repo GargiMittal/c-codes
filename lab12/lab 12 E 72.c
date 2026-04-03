@@ -1,3 +1,7 @@
+// Lab 12 - Exercise 72: Concatenate Strings with Comma
+// Program to concatenate two strings with a comma separator
+// Manual string concatenation without using strcat()
+
 #include<stdio.h>
 void main()
 {

@@ -1,3 +1,7 @@
+// Lab 12 - Exercise 65: String Output Program
+// Program to demonstrate string input and output operations
+// Tests string handling with gets() and puts() functions
+
 #include<stdio.h>
 #include<string.h>
 int main(){

@@ -1,3 +1,7 @@
+// Lab 8 - Exercise 28: Alternating Odd Squares Series Sum
+// Program to calculate sum of series 1²-3²+5²-7²+... 
+// Alternating series with odd numbers squared with alternating signs
+
 #include<stdio.h>
 
 int main(){

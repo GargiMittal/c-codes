@@ -1,3 +1,7 @@
+// Lab 7 - Exercise 25: ASCII Character Table
+// Program to display ASCII values for all 256 characters
+// Prints character and its corresponding ASCII numeric value
+
 #include<stdio.h>
 
 int main(){

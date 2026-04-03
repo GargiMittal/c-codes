@@ -1,3 +1,7 @@
+// Lab 10 - Exercise 49: Sum of Lower Triangle Matrix
+// Program to calculate sum of elements in lower triangle of square matrix
+// Lower triangle: elements where row index >= column index
+
 #include<stdio.h>
 void main()
 {

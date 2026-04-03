@@ -1,3 +1,7 @@
+// Lab 11 - Program 22: String Length (Manual Count)
+// Program to find string length by manually counting characters
+// Alternative to strlen() library function
+
 #include<stdio.h>
 #include<string.h>
 int main(){

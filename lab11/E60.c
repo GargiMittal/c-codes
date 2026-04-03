@@ -1,3 +1,7 @@
+// Lab 11 - Exercise 60: Convert String to Lowercase
+// Program to convert string to lowercase using tolower() library function
+// Converts all uppercase letters to lowercase
+
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>

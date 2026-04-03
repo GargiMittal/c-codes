@@ -1,3 +1,7 @@
+// Lab 6 - Program 13: Factorial Calculation Using Loop
+// Program to calculate factorial of a given number
+// Uses for loop for multiplication from 1 to n
+
 #include<stdio.h>
 
 int main(){

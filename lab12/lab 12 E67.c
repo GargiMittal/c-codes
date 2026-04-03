@@ -1,3 +1,7 @@
+// Lab 12 - Exercise 67: Sum of ASCII Values
+// Program to calculate sum of ASCII values of all characters in string
+// Useful for string hashing or validation
+
 #include<stdio.h>
 void main()
 { //string ascii sum

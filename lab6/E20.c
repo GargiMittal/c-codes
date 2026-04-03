@@ -1,3 +1,7 @@
+// Lab 6 - Exercise 20: Salary Calculator with Increment
+// Program to calculate next month salary based on increment code
+// Uses switch-case with x=no increment, y=10% increment, z=15% increment
+
 #include<stdio.h>
 
 int main(){

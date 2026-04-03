@@ -1,3 +1,7 @@
+// Lab 11 - Exercise 58: Character Frequency in String
+// Program to find frequency (count) of a specific character in string
+// Allows user to search for any character occurrence
+
 #include<stdio.h>
 #include<string.h>
 int main(){

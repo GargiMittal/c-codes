@@ -1,3 +1,7 @@
+// Lab 8 - Exercise 33: Sum Until Zero (Do-While Loop)
+// Program to sum integers until user enters 0
+// Demonstrates do-while loop usage for input validation
+
 #include<stdio.h>
 
 int main(){

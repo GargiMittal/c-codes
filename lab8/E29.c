@@ -1,3 +1,7 @@
+// Lab 8 - Exercise 29: Sum of Squares Series
+// Program to calculate sum of series 1²+2²+3²+...+n²
+// Uses power function to calculate squares
+
 #include<stdio.h>
 #include<math.h>
 int main(){

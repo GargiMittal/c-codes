@@ -1,3 +1,7 @@
+// Lab 9 - Exercise 41: Search Element in Array
+// Program to search for an element in array and find its location
+// Uses linear search to find matching element
+
 #include<stdio.h>
 
 int main(){

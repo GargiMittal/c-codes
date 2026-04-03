@@ -1,3 +1,7 @@
+// Lab 9 - Exercise 36: Bubble Sort Algorithm
+// Program to sort array elements using bubble sort
+// Compares adjacent elements and swaps if needed
+
 #include<stdio.h>
 
 int main(){

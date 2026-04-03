@@ -1,3 +1,7 @@
+// Practice: Count and Print Numbers
+// Program to print all numbers from 1 to n (counting up)
+// Demonstrates simple while loop
+
 #include<stdio.h>
 
 int main(){

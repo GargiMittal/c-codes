@@ -1,3 +1,7 @@
+// Practice: Sorting Array
+// Program to sort array elements using selection sort algorithm
+// Takes n numbers and arranges in ascending order
+
 #include<stdio.h>
 
 int main(){

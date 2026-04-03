@@ -1,3 +1,7 @@
+// Lab 12 - Exercise 71: Delete Character from String
+// Program to remove all occurrences of a character from string
+// Shifts remaining characters to fill the gap
+
 #include<stdio.h>
 #include<strings.h>
 void main()

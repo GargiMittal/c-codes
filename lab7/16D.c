@@ -1,3 +1,7 @@
+// Lab 7 - Exercise 16D: Spaced Star Triangle Pattern
+// Program to print a star triangle with extra spacing between stars
+// Row i has (5-i) indentation and i stars with larger spacing
+
 #include<stdio.h>
 
 int main(){

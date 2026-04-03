@@ -1,3 +1,7 @@
+// Lab 10 - Exercise 46: Matrix Addition
+// Program to add two matrices and display the result
+// Performs element-wise addition of two 2D arrays
+
 #include<stdio.h>
 void main()
 {

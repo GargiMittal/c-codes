@@ -1,3 +1,7 @@
+// Lab 7 - Program 17: Calculate GCD and LCM
+// Program to find GCD (Greatest Common Divisor) and LCM (Least Common Multiple)
+// Uses Euclidean algorithm approach
+
 #include<stdio.h>
 
 int main(){

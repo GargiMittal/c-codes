@@ -1,3 +1,7 @@
+// Lab 9 - Exercise 40: Merge Two Arrays
+// Program to merge/concatenate two arrays into one
+// Copies elements from first array then appends elements from second array
+
 #include<stdio.h>
 
 int main(){

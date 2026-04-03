@@ -1,3 +1,7 @@
+// Lab 6 - Exercise 19: Calculator Using Switch Statement
+// Program to perform basic arithmetic operations (add, subtract, multiply, divide)
+// Uses switch-case for operation selection based on user input
+
 #include<stdio.h>
 
 int main(){

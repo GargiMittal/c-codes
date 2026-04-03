@@ -1,3 +1,7 @@
+// Lab 12 - Exercise 70: Sort Array of Strings
+// Program to sort 5 strings in alphabetical order
+// Uses bubble sort algorithm with string comparison
+
 #include<stdio.h>
 #include<string.h>
 void main()
